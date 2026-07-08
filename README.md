@@ -1,8 +1,6 @@
 # Venue Vendors 
 The Venue Vendors Application allows hirers to browse venues, make bookings, upload compliance documents, manage their bookings, etc. Vendors can create and manage venues, review applicants and bookings, assess compliance documents and approve or reject bookings. 
 
-PLEASE SEE READMEPERSONAL.md
-
 ## Team Information
 
 ### Number

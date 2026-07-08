@@ -6,7 +6,7 @@ Description:
 This project was developed as part of a group assignment.
 
 Project Context:
-This was a group assignment between two people, to create a website that allows the display of different venues owned by vendors, that can be viewed and booked by different hirers. There were several tasks; the front end
+This was a group assignment between two people, to create a website that allows the display of different venues owned by vendors, that can be viewed and booked by different hirers. 
 
 Technologies Used
 * HTML5
